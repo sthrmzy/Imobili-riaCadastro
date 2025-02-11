@@ -22,7 +22,12 @@ O objetivo do projeto foi criar um formulário simples para integrar os dados do
 
 O formulário irá inserir os dados automaticamente no banco, onde será posteriormente possível realizar uma consulta.
 
-# 📸 Demonstração
+## Preview
+
+![Preview](https://github.com/sthrmzy/Imobili-riaCadastro/blob/main/img/telainicial.png)
+
+
+## 📸 Demonstrações da consulta
 
 ![Demonstração01](https://github.com/sthrmzy/Imobili-riaCadastro/blob/main/img/exemplo01.png)
 
